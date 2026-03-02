@@ -79,8 +79,8 @@
       weight: 4.0 # Frontier: 10.0<4.0
     - id: XenoArtifactIgnite
       weight: 2.0
-    - id: XenoArtifactTeleport
-      weight: 2.0
+    #- id: XenoArtifactTeleport # Coyote: We don't want this.
+    #  weight: 2.0 # Coyote: Ditto
     - id: XenoArtifactEmp
       weight: 2.0
     - id: XenoArtifactPolyMonkey
